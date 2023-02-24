@@ -1,4 +1,4 @@
-package org.example;
+package org.example.user;
 public class UserToken {
     private String token;
     public UserToken(String token) {

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.order;
 import java.util.List;
 
 public class Order {

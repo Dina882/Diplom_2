@@ -1,6 +1,9 @@
-package org.example;
+package org.example.order;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
+import org.example.util.Client;
+import org.example.user.UserToken;
+
 import static io.restassured.RestAssured.given;
 
 public class OrderClient extends Client {
